@@ -1,3 +1,3 @@
-module github.com/digitorus/pkcs7
+module github.com/registrobr/pkcs7
 
 go 1.19
